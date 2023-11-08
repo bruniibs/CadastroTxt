@@ -2,7 +2,7 @@
 
 <img width="40%" src="assets/phoneblue.gif" align="center"> <hr style="border: 1px solid darkgray;"><br> <!--imagem anime + linha-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.comfont=Playpen+Sans&size=30&duration=5000&pause=1000&color=1F9CF7&center=true&vCenter=true&random=false&width=435&lines=Cadastro+em+txt;linguagem+C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=30&duration=5000&pause=1000&color=1F9CF7&center=true&vCenter=true&random=false&width=435&lines=Cadastro+em+txt;linguagem+C" alt="Typing SVG" /></a>
 </div> <!-- titulo-imagem + fechamento da div inicial-->
 
 ### ꒱ hello world! ・.・✫・
